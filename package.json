@@ -1,0 +1,17 @@
+{
+  "name": "promesas",
+  "version": "1.0.0",
+  "description": "promesas y node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "gocchi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "materialize": "^1.0.0",
+    "materialize-css": "^0.99.0"
+  }
+}
